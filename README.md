@@ -1,4 +1,4 @@
-# auto-face-tracker-enclosure
+# face-gesture-tracker-enclosure
 3D printable enclosure for an automatic face tracking DIY project.
 
 # Project Overview
