@@ -4,7 +4,7 @@
 # Project Overview
 This repository contains the 3D model files (designed in FreeCAD) for the enclosure of my other project **Automatic Face Tracking with Hand Gesture Recognition**.
 
-**Note: [The software and logic for the main tracking system are separate.] (https://github.com/Emmes1026/face-gesture-tracker/tree/main)**
+**Note: [The software and logic for the main tracking system are separate.](https://github.com/Emmes1026/face-gesture-tracker/tree/main)**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/932cfe45-d084-4a67-acd4-32a374700214" width="49%" />
